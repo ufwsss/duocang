@@ -1,7 +1,7 @@
 //以下内容为互联网收集，只为自用，QQ158317335
 { "storeHouse": [ 
 //{ "sourceName": "🚀主线路", "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/ufwsss/tvbox/main/api.json" }, 
-{ "sourceName": "🚀主线路", "sourceUrl": "http://1.12.237.246:9696/tvbox/yy.xml" },
+{ "sourceName": "🚀主线路", "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/ufwsss/pizazzgytvbox/main/api.xml" },
 { "sourceName": "🚀主线路2", "sourceUrl": "http://1.12.237.246:9696/tvbox/yy.xml" },
 { "sourceName": "🚀芊芊推荐", "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json" },
 { "sourceName": "🚀公主线路", "sourceUrl": "https://kvymin.github.io/TVRule/config.json" },
