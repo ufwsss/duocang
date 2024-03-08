@@ -1,19 +1,7 @@
-//以下内容为互联网收集，只为自用，QQ158317335
+//以下内容为互联网收集，只为自用，QQ80532713
 { "storeHouse": [ 
-//{ "sourceName": "🚀主线路", "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/ufwsss/tvbox/main/api.json" }, 
-{ "sourceName": "🚀主线路", "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/ufwsss/pizazzgytvbox/main/api.xml" },
-{ "sourceName": "🚀主线路2", "sourceUrl": "http://1.12.237.246:9696/tvbox/yy.xml" },
 { "sourceName": "🚀芊芊推荐", "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json" },
 { "sourceName": "🚀公主线路", "sourceUrl": "https://kvymin.github.io/TVRule/config.json" },
-{ "sourceName":"🚀公主线路1","sourceUrl":"http://1.12.237.246:2240/tvbox/tvrule/config.xml"},
-{ "sourceName":"🚀茶茶线路2","sourceUrl":"http://1.12.237.246:2240/tvbox/pizazzgytvbox/api.xml"},
-{ "sourceName": "🚀灵狐线路", "sourceUrl": "http://1.12.237.246:2240/tvbox/yq/api.xml" }, 
-
-{ "sourceName": "🚀灵狐线路1", "sourceUrl": "http://1.12.237.246:9696/tvbox/1.xml" },
-{ "sourceName": "🚀灵狐线路2", "sourceUrl": "http://1.12.237.246:9696/tvbox/2.xml" },
-{ "sourceName": "🚀灵狐线路3", "sourceUrl": "http://1.12.237.246:9696/tvbox/3.xml" },
-
-
 
 { "sourceName": "🚀饭太硬线路", "sourceUrl": "http://xn--sss604efuw.top/tv" }, 
 { "sourceName": "🚀荷城茶秀线路", "sourceUrl": "http://rihou.cc:88/荷城茶秀" }, 
